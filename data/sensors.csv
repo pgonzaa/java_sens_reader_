@@ -1,0 +1,4 @@
+sensor_name,value,temp,voltage,has_weapons
+NOSE_RADAR,54.2,43.5,27.8,false
+LEFT_WING,31.7,-4.2,28.1,true
+ENGINE_LEFT,68.5,107.3,27.9,false
